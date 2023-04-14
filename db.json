@@ -1,0 +1,139 @@
+{
+  "employees": [
+    {
+      "id": 4,
+      "name": "Karuna Sakle ",
+      "email": "karuna@gmail.com",
+      "department": "ReactJS",
+      "gender": "Female",
+      "mobileno": "07489210127"
+    },
+    {
+      "id": 5,
+      "name": "sanjay rascal ",
+      "email": "sanjaysakle@gmail.com",
+      "department": "NodeJS",
+      "gender": "Male",
+      "mobileno": "7489210125"
+    },
+    {
+      "id": 6,
+      "name": "Ajay chouhan",
+      "email": "react@gmail.com",
+      "department": "ReactJS",
+      "gender": "Male",
+      "mobileno": "07489210127"
+    },
+    {
+      "id": 7,
+      "name": "Swati update",
+      "email": "swati@gmail.com",
+      "department": "NodeJS",
+      "gender": "Female",
+      "mobileno": "07489210127"
+    },
+    {
+      "name": "Karuna ",
+      "email": "karunasakle@gmail.com",
+      "department": "NodeJS",
+      "gender": "Female",
+      "mobileno": 7489210127,
+      "id": 8
+    },
+    {
+      "name": "Swati",
+      "email": "karuna@gmail.com",
+      "department": "ReactJS",
+      "gender": "Female",
+      "mobileno": 7489210127,
+      "id": 9
+    },
+    {
+      "name": "Karuna Sakle",
+      "email": "karuna@gmail.com",
+      "department": "ReactJS",
+      "gender": "Male",
+      "mobileno": "07489210127",
+      "id": 10
+    },
+    {
+      "name": "Karuna Sakle",
+      "email": "karuna@gmail.com",
+      "department": "ReactJS",
+      "gender": "Male",
+      "mobileno": "07489210127",
+      "id": 11
+    },
+    {
+      "name": "Karuna Sakle new",
+      "email": "karunasakle@gmail.com",
+      "department": "ReactJS",
+      "gender": "Female",
+      "mobileno": "07489210127",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "name": "anurag  pagal sqaure",
+      "email": "anurag@gmail.com",
+      "department": "ReactJS",
+      "gender": "Male",
+      "mobileno": "07489210127"
+    },
+    {
+      "name": "Karuna Sakle",
+      "email": "karuna@gmail.com",
+      "department": "ReactJS",
+      "gender": "Male",
+      "mobileno": "07489210127",
+      "id": 14
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Karuna",
+      "lastname": "Sakle",
+      "email": "karunasakle@gmail.com",
+      "phone": 787897897,
+      "city": "khandwa",
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "firstname": "Karuna",
+      "lastname": "Sakle",
+      "email": "karunasakle@gmail.com",
+      "phone": 787897897,
+      "city": "khandwa",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "firstname": "Karuna",
+      "lastname": "Sakle",
+      "email": "karunasakle@gmail.com",
+      "phone": 787897897,
+      "city": "khandwa",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "firstname": "Karuna",
+      "lastname": "Sakle",
+      "email": "karunasakle@gmail.com",
+      "phone": 787897897,
+      "city": "khandwa",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "firstname": "Karuna",
+      "lastname": "Sakle",
+      "email": "karunasakle@gmail.com",
+      "phone": 787897897,
+      "city": "khandwa",
+      "gender": "Female"
+    }
+  ]
+}
